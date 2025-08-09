@@ -2,7 +2,9 @@
 A Power BI dashboard that visualizes Blinkit’s sales trends, outlet performance, and product category insights. Designed to uncover opportunities for growth, optimize inventory, and improve customer satisfaction.
 
 ## Links
-View the Dashboard (https://app.powerbi.com/groups/me/reports/da000a0c-9149-44a3-bffd-1a825989c718/be3c5a10e0bc662151b5?experience=power-bi)
+View the Dashboard
+<img width="1378" height="745" alt="Screenshot 2025-08-09 222012" src="https://github.com/user-attachments/assets/c4fde51e-096a-4cfc-9650-533ae09dd198" />
+
 
 ## Dashboard Analysis: Key Scenarios & Insights
  ## Scenario 1: Tier-Wise Sales Performance**
